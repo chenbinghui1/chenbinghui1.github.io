@@ -1,0 +1,6 @@
+@InProceedings{chen2019energy,
+author = {Chen, Binghui and Deng, Weihong},
+title = {Energy Confused Adversarial Metric Learning for Zero-Shot Image Retrieval and Clustering},
+booktitle = {AAAI Conference on Artificial Intelligence},
+year = {2019}
+}

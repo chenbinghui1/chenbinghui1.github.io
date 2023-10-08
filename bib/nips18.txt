@@ -1,0 +1,7 @@
+@inproceedings{chen2018virtual,
+  title={Virtual Class Enhanced Discriminative Embedding Learning},
+  author={Chen, Binghui and Deng, Weihong and Shen, Haifeng},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={1946--1956},
+  year={2018}
+}

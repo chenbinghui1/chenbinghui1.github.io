@@ -1,0 +1,9 @@
+@article{deng2017fine,
+  title={Fine-grained face verification: FGLFW database, baselines, and human-DCMN partnership},
+  author={Deng, Weihong and Hu, Jiani and Zhang, Nanhai and Chen, Binghui and Guo, Jun},
+  journal={Pattern Recognition},
+  volume={66},
+  pages={63--73},
+  year={2017},
+  publisher={Elsevier}
+}

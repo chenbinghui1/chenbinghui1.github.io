@@ -1,0 +1,7 @@
+@article{deng2017deep,
+  title={Deep Correlation Feature Learning for Face Verification in the Wild},
+  author={Deng, Weihong and Chen, Binghui and Fang, Yuke and Hu, Jiani},
+  journal={IEEE Signal Processing Letters},
+  year={2017},
+  publisher={IEEE}
+}

@@ -1,0 +1,8 @@
+@InProceedings{Li_2021_CVPR,
+    author    = {Li, Wenyu and Guo, Tianchu and Li, Pengyu and Chen, Binghui and Wang, Biao and Zuo, Wangmeng and Zhang, Lei},
+    title     = {VirFace: Enhancing Face Recognition via Unlabeled Shallow Data},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {14729-14738}
+}

@@ -1,0 +1,7 @@
+@InProceedings{Chen_2017_CVPR,
+author = {Chen, Binghui and Deng, Weihong and Du, Junping},
+title = {Noisy Softmax: Improving the Generalization Ability of DCNN via Postponing the Early Softmax Saturation},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {July},
+year = {2017}
+}

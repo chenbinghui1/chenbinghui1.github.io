@@ -1,0 +1,6 @@
+@InProceedings{chen2019mixed,
+author = {Chen, Binghui and Deng, Weihong and Hu, Jiani},
+title = {Mixed High-Order Attention Network for Person Re-Identification},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+year = {2019}
+}

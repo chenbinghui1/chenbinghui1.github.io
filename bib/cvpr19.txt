@@ -1,0 +1,6 @@
+@inproceedings{chen2019hybrid,
+  title={Hybrid-Attention based Decoupled Metric Learning for Zero-Shot Image Retrieval},
+  author={Chen, Binghui and Deng, Weihong},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2019},
+}

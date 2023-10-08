@@ -1,0 +1,9 @@
+@inproceedings{chen2021deep,
+  title={Deep Metric Learning with Graph Consistency},
+  author={Chen, Binghui and Li, Pengyu and Yan, Zhaoyi and Wang, Biao and Zhang, Lei},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={2},
+  pages={982--990},
+  year={2021}
+}
